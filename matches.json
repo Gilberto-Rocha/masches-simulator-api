@@ -49,5 +49,22 @@
       "forca": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
-  }
+  },
+  {
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Estádio Centenário",
+      "imagem": "https://istoe.com.br/wp-content/uploads/sites/14/2019/03/morumbi.jpg"
+    },
+    "mandante": {
+      "nome": "Uruguay",
+      "forca": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "visitante": {
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    }
+  },
 ]
